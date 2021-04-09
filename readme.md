@@ -2,7 +2,7 @@
 
 ## Contents
 
-* GPG key [==>](GPG Key Configuration.md)
+* GPG key [==>](/configurations/GPG-Key-Configuration.md)
 
 * To be added...
 
